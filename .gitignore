@@ -1,0 +1,5 @@
+bin
+obj
+.vs
+/Accelerate front end/.vs
+*.DotSettings.user
